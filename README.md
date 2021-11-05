@@ -1,3 +1,7 @@
+# 目前来看，该项目已经终止，所有QQ群也消失不见了
+目前仅剩下一个由大家自觉建立的tg群：https://t.me/working_time_chat
+
+
 # WorkingTime
 
 ## 最后的声明 2021/10/28
