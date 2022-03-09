@@ -1,6 +1,5 @@
 # 2021/11/05
 # 目前来看，该项目已经终止，所有QQ群也消失不见了
-目前仅剩下一个由大家自觉建立的tg群：https://t.me/working_time_chat
 
 新时代农民工群：https://t.me/cnworkers
 
